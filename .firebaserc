@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "food-web-663"
+  },
+  "targets": {
+    "food-web-663" : {
+      "hosting": {
+        "food-web-663":[
+          "food-web-663"
+        ]
+      }
+    }
+  }
+}
